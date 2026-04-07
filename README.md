@@ -24,10 +24,12 @@ The dashboard above provides a comprehensive visual analysis of Cookie Company's
 **The Goal:** Determine which country to target for the next campaign.
 
 **The Data:** While Germany had the highest Average Order Value ($2,649.00), the ANOVA test (p=0.9783) proves that there is no statistically significant difference in spending behavior between countries.
+![Average Revenue by Country](average_revenue_by_country.png)
 
 **Country to Target: United States**
 
 **Why:** Since revenue per order is statistically the same everywhere, the company should target the market with the highest Volume Potential. The United States (US) already accounts for 53% of the cookie orders (106/200) and 54% of the company's total revenue ($274,148.75).
+![Distribution of Orders by Country](country_distribution.png)
 
 **Strategy:** Not to focus on "premium" markets like Germany, and instead, double down on the US to leverage existing brand relationships and scale volume.
 
@@ -38,6 +40,7 @@ The dashboard above provides a comprehensive visual analysis of Cookie Company's
 **The Goal:** Evaluate the revenue contribution of Rush vs. Regular shipping.
 
 **The Data:** "Yes" for Rush yields a mean revenue of $2,662 vs. $2,454 for "No." However, the T-test (p=0.31) shows this difference is not significant.
+![Average Revenue by Rush Shipments](average_revenue_rush_shipment.png)
 
 **Verdict:** Continue offering Rush Shipments, but change the pricing model.
 
