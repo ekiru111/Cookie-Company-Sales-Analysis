@@ -1,4 +1,4 @@
-# Advanced Digital Literacy Center (ADLC) - Technical Interview Submission
+# Cookie Company Sales Analysis
 
 ## Project Overview
 This is a comprehensive data analysis and business intelligence project completed for the **Advanced Digital Literacy Center (ADLC) Technical Interview**. The analysis focuses on strategic sales insights for Cookie Co., utilizing statistical analysis, data visualization, and business recommendations.
